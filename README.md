@@ -6,18 +6,6 @@
 - fetch data from _OpenWeather API_ with `API key`
 - modular components styled with `Bootstrap 5` and custom `css`
 
-## Install dependencies
-
-```zsh
-% yarn install
-```
-
-## Run the app in the development mode
-
-```zsh
-% yarn start
-```
-
 ## Project Structure
 
 ```bash
@@ -35,4 +23,16 @@ src
 ├── index.js
 ├── serviceWorker.js
 └── setupTests.js
+```
+
+## Install dependencies
+
+```zsh
+% yarn install
+```
+
+## Run the app in the development mode
+
+```zsh
+% yarn start
 ```
